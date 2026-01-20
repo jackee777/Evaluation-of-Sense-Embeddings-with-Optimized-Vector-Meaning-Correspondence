@@ -21,7 +21,11 @@ This repository is intended to support understanding and reproduction of the cor
   }
 ```
 
-
+コメント：
+有り難いことに，07-09でダウンロード数は伸びたのだけれども，ここから引用されてくれたら嬉しいなと思っています．
+https://www.ieice.org/eng_r/ranking/transactions/monthly/202507_d.html
+https://www.ieice.org/eng_r/ranking/transactions/monthly/202508_d.html
+https://www.ieice.org/eng_r/ranking/transactions/monthly/202509_d.html
 
 ## Acknowledgments
 This page was built using the [Academic Project Page Template](https://github.com/eliahuhorwitz/Academic-project-page-template) which was adopted from the [Nerfies](https://nerfies.github.io) project page. You are free to borrow the source code of this website, we just ask that you link back to this page in the footer. <br> This website is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
