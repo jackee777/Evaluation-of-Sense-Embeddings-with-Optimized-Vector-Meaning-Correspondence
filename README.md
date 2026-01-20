@@ -4,6 +4,14 @@ Lemon: fruit🍋 or color🟡? Evaluating how well sense embeddings, including f
 Our novel evaluation method reveals what meanings do sense embeddings have by deciphering which vector corresponds to which meaning based on neighboring words.
 
 project page: https://jackee777.github.io/Evaluation-of-Sense-Embeddings-with-Optimized-Vector-Meaning-Correspondence/
+
+## Contents
+- Sample implementation of evaluation methods for Word Nearest Neighbors Dataset (refer to /src)
+- [Word Nearest Neighbors Dataset Information](https://github.com/jackee777/Evaluation-of-Sense-Embeddings-with-Optimized-Vector-Meaning-Correspondence/blob/master/dataset/WNN_README.md) (please contact 1st author after reading BabelNet license 
+- [Word Nearest Neighbors corpus](https://github.com/jackee777/Evaluation-of-Sense-Embeddings-with-Optimized-Vector-Meaning-Correspondence/blob/master/dataset/WNN_corpus_README.md)
+This repository is intended to support understanding and reproduction of the core ideas rather than providing a fully optimized or production-ready implementation.
+
+## Citation
 ```
 @inproceedings{Yamazaki2025,
     author    = {Tomoaki Yamazaki, Seiya Ito, Kouzou Ohara},
