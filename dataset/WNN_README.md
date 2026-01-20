@@ -31,8 +31,11 @@ Please read BabelNet's lisence https://babelnet.org/license.
 [Citation]
 If you use this dataset in academic work, please cite both:
 This dataset:
+```
 Yamazaki, T., Ito, S., & Kouzou, Ohara: Evaluation of Sense Embeddings with Optimized Vector-Meaning Correspondence, IEICE TRANSACTIONS on Information and Systems, Vol. E108-D, No. 7, pp. 647--658, 2025.
+```
 BabelNet, for example:
+
 Navigli, R., & Ponzetto, S. P. (2012). BabelNet: The automatic construction, evaluation and application of a wide-coverage multilingual semantic network. Artificial Intelligence, 193, 217–250.
 
 
