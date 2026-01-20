@@ -7,11 +7,13 @@ However, ARES corpus partially includes BabelNet information. Please read BabelN
 
 ## Citation
 If you use this dataset in academic work, please cite both:
-This dataset:
+
+```
 Yamazaki, T., Ito, S., & Kouzou, Ohara: Evaluation of Sense Embeddings with Optimized Vector-Meaning Correspondence, IEICE TRANSACTIONS on Information and Systems, Vol. E108-D, No. 7, pp. 647--658, 2025.
-ARES corpus:
-Scarlini, Bianca and Pasini, Tommaso and Navigli, Roberto: With More Contexts Comes Better Performance: Contextualized Sense Embeddings for All-Round Word Sense Disambiguation, Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing, 2020.
-BabelNet, for example:
+```
+ARES corpus: Scarlini, Bianca and Pasini, Tommaso and Navigli, Roberto: With More Contexts Comes Better Performance: Contextualized Sense Embeddings for All-Round Word Sense Disambiguation, Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing, 2020.
+
+BabelNet, for example: 
 Navigli, R., & Ponzetto, S. P. (2012). BabelNet: The automatic construction, evaluation and application of a wide-coverage multilingual semantic network. Artificial Intelligence, 193, 217–250.
 
 ---------------------------------------------------------------------------------------------------------
