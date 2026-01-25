@@ -3,7 +3,7 @@ This dataset is a research-oriented dataset created based on BabelNet, a multili
 
 The dataset is intended exclusively for academic and research purposes and is distributed in compliance with the BabelNet Non-Commercial License. 
 
-If you want to get the dataset, please contact the first author.
+If you want to get the dataset, please contact the first author through [google form](https://forms.gle/879hAH7moBgmUdT5A).
 
 ---------------------------------------------------------------------------------------------------------
 ## Terms of Use
